@@ -6,12 +6,26 @@
   />
 
   <br />
+  <br />
 
-  <a href="https://github.com/ChibaRie">
-    <img src="https://img.shields.io/badge/GitHub-ChibaRie-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  <a href="https://space.bilibili.com/24233835">
+    <img src="https://img.shields.io/badge/bilibili-ChibaRie-00A1D6?style=flat&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ChibaRie&style=for-the-badge&color=ff69b4&label=Visitors" alt="Profile views" />
-  <img src="https://img.shields.io/badge/README-sakura%20night-7EE7E7?style=for-the-badge" alt="README style" />
+  <a href="https://www.youtube.com/@chibarie-">
+    <img src="https://img.shields.io/badge/video-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://steamcommunity.com/id/chibarie-/">
+    <img src="https://img.shields.io/badge/steam-ChibaRie-1B2838?style=flat&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+  <a href="https://www.instagram.com/chibarie_/">
+    <img src="https://img.shields.io/badge/instagram-chibarie__-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <br />
+
+  <img src="https://img.shields.io/badge/%E5%96%9C%E6%AC%A2-%E4%BA%8C%E6%AC%A1%E5%85%83-FF5C8A?style=flat" alt="Anime" />
+  <img src="https://img.shields.io/badge/music-J--Rock-6C63FF?style=flat" alt="J-Rock" />
+  <img src="https://img.shields.io/badge/music-J--Pop-FFB3C7?style=flat" alt="J-Pop" />
 
 </div>
 
