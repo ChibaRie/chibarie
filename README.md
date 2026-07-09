@@ -31,9 +31,12 @@
 
 <br />
 
-## ChibaRie / README.md
+<p align="center">
+  <strong>ChibaRie</strong><br />
+  <sub>你好(@^0^@)/！歡迎來我家玩！</sub>
+</p>
 
-你好(@^0^@)/！歡迎來我家玩！
+<br />
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chibarie&theme=tokyonight" alt="ChibaRie's GitHub stats" />
