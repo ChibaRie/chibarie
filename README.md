@@ -24,9 +24,7 @@
       <p>
         你好(@^0^@)/！歡迎來我家玩！
       </p>
-      <p>
-        这里是一点粉色花瓣、一点蓝绿色风、一点夜色代码感组成的小小 GitHub 主页。
-      </p>
+
       <p>
         <img src="https://img.shields.io/badge/Mood-%E6%AB%BB%E8%8A%B1%E3%81%A8%E9%9D%92%E3%81%84%E9%A2%A8-FF8FC7?style=flat-square" alt="Mood badge" />
         <img src="https://img.shields.io/badge/Space-%E6%AD%A1%E8%BF%8E%E4%BE%86%E7%8E%A9-7EE7E7?style=flat-square" alt="Space badge" />
