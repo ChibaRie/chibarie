@@ -44,6 +44,6 @@
 
 <div align="center">
 
-  <img src="./assets/sakura.jpg" alt="Sakura illustration" width="100%" />
+  <img src="https://raw.githubusercontent.com/ChibaRie/chibarie/refs/heads/main/assets/sakura.jpg" alt="Sakura illustration" width="100%" />
 
 </div>
