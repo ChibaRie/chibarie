@@ -8,21 +8,7 @@
   <br />
   <br />
 
-  <a href="https://space.bilibili.com/24233835">
-    <img src="https://img.shields.io/badge/bilibili-ChibaRie-00A1D6?style=flat&logo=bilibili&logoColor=white" alt="Bilibili" />
-  </a>
-  <a href="https://steamcommunity.com/id/chibarie-/">
-    <img src="https://img.shields.io/badge/steam-ChibaRie-1B2838?style=flat&logo=steam&logoColor=white" alt="Steam" />
-  </a>
-  <a href="https://music.163.com/#/user/home?id=434554330">
-    <img src="https://img.shields.io/badge/music-Netease%20Music-C20C0C?style=flat&logo=neteasecloudmusic&logoColor=white" alt="Netease Music" />
-  </a>
-
   <br />
-
-  <img src="https://img.shields.io/badge/%E5%96%9C%E6%AC%A2-%E4%BA%8C%E6%AC%A1%E5%85%83-FF5C8A?style=flat" alt="Anime" />
-  <img src="https://img.shields.io/badge/music-J--Rock-6C63FF?style=flat" alt="J-Rock" />
-  <img src="https://img.shields.io/badge/music-J--Pop-FFB3C7?style=flat" alt="J-Pop" />
 
 </div>
 
