@@ -13,14 +13,6 @@
 
 <br />
 
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chibarie&theme=tokyonight" alt="ChibaRie's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chibarie&theme=tokyonight" alt="Most used languages" />
-</div>
-
-<br />
 
 <div align="center">
 
