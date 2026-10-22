@@ -43,10 +43,6 @@
   <img src="https://streak-stats.demolab.com?user=ChibaRie&theme=radical&hide_border=true&locale=zh_Hans" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChibaRie&theme=react&hide_border=true&area=true" alt="Activity graph" />
-</p>
-
 ## 贡献
 
 <p align="center">
