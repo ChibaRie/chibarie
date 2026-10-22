@@ -6,7 +6,11 @@
 
 写代码，也写点东西。
 
-[博客](https://chibarie.github.io/blog_chibarie/) · [Bilibili](https://space.bilibili.com/24233835) · [Steam](https://steamcommunity.com/id/chibarie-/)
+<p>
+  <a href="https://chibarie.github.io/blog_chibarie/"><img src="https://img.shields.io/badge/Blog-chibarie__blog-FF4FA3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" /></a>
+  <a href="https://space.bilibili.com/24233835"><img src="https://img.shields.io/badge/Bilibili-24233835-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+  <a href="https://steamcommunity.com/id/chibarie-/"><img src="https://img.shields.io/badge/Steam-Profile-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+</p>
 
 </div>
 
