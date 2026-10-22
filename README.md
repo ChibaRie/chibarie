@@ -18,12 +18,6 @@
   <img src="assets/chibarie-banner.jpg" alt="chibarie banner" width="100%" />
 </div>
 
-## 关于我
-
-- 关注 AI Agent、Vue、后端工程和本地优先的小工具
-- 喜欢把折腾过的东西整理成能复用的文档
-- 最近在做 **AgentCraft**：把专家、Skill、MCP 打包成可发布的 Agent 平台
-
 ## 技术栈
 
 <p align="center">
