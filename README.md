@@ -20,16 +20,21 @@
 
 ## 技术栈
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,tailwind,python,flask,django,mysql,postgres,docker,git,github,linux&theme=dark" alt="Tech stack" />
-</p>
-
-## 精选项目
-
-- **[AgentCraft](https://github.com/ChibaRie/AgentCraft)** — 把专家、Skill、MCP 打包成可发布 Agent 的平台
-- **[blog_chibarie](https://github.com/ChibaRie/blog_chibarie)** — 纯静态 Vue + GitHub Pages 博客
-- **[acgn_journey](https://github.com/ChibaRie/acgn_journey)** — 记录 ACGN 浏览、阅读和游玩足迹
-- **[sdvx_asphyxia_best_50](https://github.com/ChibaRie/sdvx_asphyxia_best_50)** — 基于 asphyxia 的 SDVX b50 生成器
+| Logo | 技术 | 说明 |
+| :---: | --- | --- |
+| <img src="https://skillicons.dev/icons?i=vue" width="28" alt="Vue" /> | **Vue 3** | 前台框架，组件化与组合式 API |
+| <img src="https://skillicons.dev/icons?i=ts" width="28" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=js" width="28" alt="JavaScript" /> | **TypeScript / JavaScript** | 类型系统与日常脚本 |
+| <img src="https://skillicons.dev/icons?i=vite" width="28" alt="Vite" /> | **Vite** | 前端构建与开发服务器 |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="28" alt="Tailwind CSS" /> | **Tailwind CSS** | 原子化样式与设计系统 |
+| <img src="https://skillicons.dev/icons?i=python" width="28" alt="Python" /> | **Python** | 后端服务与脚本 |
+| <img src="https://skillicons.dev/icons?i=flask" width="28" alt="Flask" /> | **Flask** | 轻量 Web 服务与接口 |
+| <img src="https://skillicons.dev/icons?i=django" width="28" alt="Django" /> | **Django** | 完整 Web 框架与后台 |
+| <img src="https://skillicons.dev/icons?i=mysql" width="28" alt="MySQL" /> | **MySQL** | 关系型数据库 |
+| <img src="https://skillicons.dev/icons?i=postgres" width="28" alt="PostgreSQL" /> | **PostgreSQL** | 关系型数据库，JSON 与 RLS |
+| <img src="https://skillicons.dev/icons?i=docker" width="28" alt="Docker" /> | **Docker** | 容器化与本地环境 |
+| <img src="https://skillicons.dev/icons?i=git" width="28" alt="Git" /> | **Git** | 版本管理 |
+| <img src="https://skillicons.dev/icons?i=github" width="28" alt="GitHub" /> | **GitHub** | 代码托管与 Actions |
+| <img src="https://skillicons.dev/icons?i=linux" width="28" alt="Linux" /> | **Linux** | 部署与命令行 |
 
 ## GitHub
 
@@ -60,4 +65,3 @@
   <img src="https://komarev.com/ghpvc/?username=ChibaRie&label=PROFILE+VIEWS&color=ff4fa3&style=flat-square" alt="Profile views" />
 </p>
 
-> 把学到的东西讲清楚，才知道自己是不是真的懂了。
