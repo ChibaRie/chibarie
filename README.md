@@ -26,37 +26,44 @@
 
 ## 技术栈
 
-<p>
-  <img src="https://img.shields.io/badge/Vue_3-42b883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,go,python,postgres,docker,git,github,linux&theme=dark" alt="Tech stack" />
 </p>
+
+## 精选项目
+
+- **[AgentCraft](https://github.com/ChibaRie/AgentCraft)** — 把专家、Skill、MCP 打包成可发布 Agent 的平台
+- **[blog_chibarie](https://github.com/ChibaRie/blog_chibarie)** — 纯静态 Vue + GitHub Pages 博客
+- **[acgn_journey](https://github.com/ChibaRie/acgn_journey)** — 记录 ACGN 浏览、阅读和游玩足迹
+- **[sdvx_asphyxia_best_50](https://github.com/ChibaRie/sdvx_asphyxia_best_50)** — 基于 asphyxia 的 SDVX b50 生成器
 
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChibaRie&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChibaRie&layout=compact&theme=tokyonight&hide_border=true&locale=cn" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChibaRie&show_icons=true&theme=radical&hide_border=true&locale=cn" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChibaRie&layout=compact&theme=radical&hide_border=true&locale=cn" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChibaRie&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ChibaRie&theme=radical&hide_border=true&locale=zh_Hans" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChibaRie&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChibaRie&theme=react&hide_border=true&area=true" alt="Activity graph" />
 </p>
 
-## 最近在写
+## 贡献
 
-- [AgentCraft 项目档案](https://chibarie.github.io/blog_chibarie/post/agentcraft-project)
-- [Skills 原理](https://chibarie.github.io/blog_chibarie/post/claude-skills-principle)
-- [Pi Coding Agent 入门](https://chibarie.github.io/blog_chibarie/post/pi-coding-agent-principle)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChibaRie/chibarie/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChibaRie/chibarie/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ChibaRie/chibarie/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChibaRie&label=PROFILE+VIEWS&color=ff4fa3&style=flat-square" alt="Profile views" />
+</p>
 
 > 把学到的东西讲清楚，才知道自己是不是真的懂了。
