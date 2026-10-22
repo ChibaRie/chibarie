@@ -21,7 +21,7 @@
 ## 技术栈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,go,python,postgres,docker,git,github,linux&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,tailwind,python,flask,django,mysql,postgres,docker,git,github,linux&theme=dark" alt="Tech stack" />
 </p>
 
 ## 精选项目
