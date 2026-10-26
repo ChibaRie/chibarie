@@ -17,7 +17,7 @@
 ## 技术栈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,js,vite,python,springboot,flask,django,mysql,postgres,docker&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=vue,js,vite,python,spring,flask,django,mysql,postgres,docker&theme=dark" alt="Tech stack" />
 </p>
 
 ## GitHub
