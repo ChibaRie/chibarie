@@ -31,15 +31,6 @@
   <img src="https://streak-stats.demolab.com?user=ChibaRie&theme=radical&hide_border=true&locale=zh_Hans" alt="GitHub streak" />
 </p>
 
-## 贡献
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChibaRie/chibarie/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChibaRie/chibarie/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ChibaRie/chibarie/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChibaRie&label=PROFILE+VIEWS&color=ff4fa3&style=flat-square" alt="Profile views" />
