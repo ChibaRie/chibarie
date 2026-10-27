@@ -10,10 +10,6 @@
 
 </div>
 
-<div align="center">
-  <img src="assets/chibarie-banner.jpg" alt="chibarie banner" width="100%" />
-</div>
-
 ## 技术栈
 
 <p align="center">
