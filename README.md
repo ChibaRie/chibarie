@@ -19,8 +19,8 @@
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChibaRie&show_icons=true&theme=radical&hide_border=true&locale=cn" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChibaRie&layout=compact&theme=radical&hide_border=true&locale=cn" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
