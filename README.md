@@ -7,7 +7,6 @@
   <a href="https://space.bilibili.com/24233835"><img src="https://img.shields.io/badge/Bilibili-24233835-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
   <a href="https://steamcommunity.com/id/chibarie-/"><img src="https://img.shields.io/badge/Steam-Profile-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 </p>
-
 </div>
 
 ## 技术栈
